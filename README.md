@@ -1,6 +1,6 @@
 # cart_bloc
 
-block패턴으로 장바구니 만들기
+bloc패턴으로 장바구니 만들기
 
 ## Getting Started
 
